@@ -10,3 +10,14 @@ google-auth
 protobuf
 grpcio
 unstructured
+networkx
+pandas
+python-magic
+python-docx
+openpyxl
+xlrd
+PyPDF2
+pdfminer.six
+python-pptx
+beautifulsoup4
+lxml
