@@ -21,3 +21,4 @@ pdfminer.six
 python-pptx
 beautifulsoup4
 lxml
+msoffcrypto-tool
